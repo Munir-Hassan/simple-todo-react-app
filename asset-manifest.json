@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Munir-Hassan/simple-todo-react-app/static/css/main.af2d40e4.chunk.css",
-    "main.js": "/Munir-Hassan/simple-todo-react-app/static/js/main.97afd8b7.chunk.js",
-    "main.js.map": "/Munir-Hassan/simple-todo-react-app/static/js/main.97afd8b7.chunk.js.map",
-    "runtime-main.js": "/Munir-Hassan/simple-todo-react-app/static/js/runtime-main.7151886a.js",
-    "runtime-main.js.map": "/Munir-Hassan/simple-todo-react-app/static/js/runtime-main.7151886a.js.map",
-    "static/js/2.22965e46.chunk.js": "/Munir-Hassan/simple-todo-react-app/static/js/2.22965e46.chunk.js",
-    "static/js/2.22965e46.chunk.js.map": "/Munir-Hassan/simple-todo-react-app/static/js/2.22965e46.chunk.js.map",
-    "index.html": "/Munir-Hassan/simple-todo-react-app/index.html",
-    "precache-manifest.0686bc211215e712004daa4fb3dc6f53.js": "/Munir-Hassan/simple-todo-react-app/precache-manifest.0686bc211215e712004daa4fb3dc6f53.js",
-    "service-worker.js": "/Munir-Hassan/simple-todo-react-app/service-worker.js",
-    "static/css/main.af2d40e4.chunk.css.map": "/Munir-Hassan/simple-todo-react-app/static/css/main.af2d40e4.chunk.css.map",
-    "static/js/2.22965e46.chunk.js.LICENSE.txt": "/Munir-Hassan/simple-todo-react-app/static/js/2.22965e46.chunk.js.LICENSE.txt"
+    "main.css": "/simple-todo-react-app/static/css/main.af2d40e4.chunk.css",
+    "main.js": "/simple-todo-react-app/static/js/main.e3ad86c3.chunk.js",
+    "main.js.map": "/simple-todo-react-app/static/js/main.e3ad86c3.chunk.js.map",
+    "runtime-main.js": "/simple-todo-react-app/static/js/runtime-main.e5921450.js",
+    "runtime-main.js.map": "/simple-todo-react-app/static/js/runtime-main.e5921450.js.map",
+    "static/js/2.22965e46.chunk.js": "/simple-todo-react-app/static/js/2.22965e46.chunk.js",
+    "static/js/2.22965e46.chunk.js.map": "/simple-todo-react-app/static/js/2.22965e46.chunk.js.map",
+    "index.html": "/simple-todo-react-app/index.html",
+    "precache-manifest.a908f1bc61c207e6f90569cc30b7d67b.js": "/simple-todo-react-app/precache-manifest.a908f1bc61c207e6f90569cc30b7d67b.js",
+    "service-worker.js": "/simple-todo-react-app/service-worker.js",
+    "static/css/main.af2d40e4.chunk.css.map": "/simple-todo-react-app/static/css/main.af2d40e4.chunk.css.map",
+    "static/js/2.22965e46.chunk.js.LICENSE.txt": "/simple-todo-react-app/static/js/2.22965e46.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7151886a.js",
+    "static/js/runtime-main.e5921450.js",
     "static/js/2.22965e46.chunk.js",
     "static/css/main.af2d40e4.chunk.css",
-    "static/js/main.97afd8b7.chunk.js"
+    "static/js/main.e3ad86c3.chunk.js"
   ]
 }
